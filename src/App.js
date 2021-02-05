@@ -14,7 +14,7 @@ function App() {
           <MainComponent />
         </BrowserRouter>
         </Provider>
-       
+    
     </div>
   );
 }
